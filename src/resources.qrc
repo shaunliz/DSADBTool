@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>theme/Integrid/Integrid.qss</file>
+        <file>theme/Darkeum/Darkeum.qss</file>
+        <file>theme/Adaptic/Adaptic.qss</file>
+        <file>theme/Combinear/Combinear.qss</file>
+        <file>theme/Diffnes/Diffnes.qss</file>
+        <file>theme/Fibers/Fibers.qss</file>
+        <file>theme/Irrorater/Irrorater.qss</file>
+    </qresource>
+</RCC>
